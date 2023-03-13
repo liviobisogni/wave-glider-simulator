@@ -33,17 +33,17 @@ The aim of the project is to evaluate and improve the performance of an AUV's ad
 
 The GUI provides a graphical user interface for interacting with the simulator and testing different wing profiles and braking actions for the AUV. The screenshots below show different views of the GUI:
 
-#### General settings
+#### General Settings
 <p align="center">
     <img width="80%" src="img/gui/gui_1.png">
 </p>
 
-#### Wing profile
+#### Wing Profile
 <p align="center">
     <img width="80%" src="img/gui/gui_2.png">
 </p>
 
-#### Braking options
+#### Braking Options
 <p align="center">
     <img width="80%" src="img/gui/gui_3.png">
 </p>
