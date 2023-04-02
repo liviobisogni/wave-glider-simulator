@@ -10,6 +10,9 @@
 
 This repository contains the code and materials developed by our team for the simulation of the performance of the eFolaga+[[1]](#references-1), an Autonomous Underwater Vehicle (AUV) for marine exploration equipped with the WAVE module[[2]](#references-2). Our project aimed to evaluate and improve the AUV's advancement by exploring the effects of varying the blade geometry and braking strategy of its arms.
 
+<p align="center" width="100%">
+    <img width="61.8%" src="img/Simulation.gif"> 
+</p>
 
 ## Objectives
 The aim of the project is to evaluate and improve the performance of an AUV's advancement by varying the blade geometry and braking strategies of the arms in simulation. Through the development and design of a new wing profile and two new braking strategies, the project seeks to enhance the AUV performance. Additionally, a user interface (GUI) was created to facilitate easy interaction with an existing simulator, which was integrated into the project.
@@ -17,7 +20,7 @@ The aim of the project is to evaluate and improve the performance of an AUV's ad
 
 ## Contents
 * The WAVE simulator - a tool used to simulate the performance of the AUV under different conditions
-* The GUI - a graphical user interface to interact with the simulator, test wing profiles, and braking actions for the AUV.
+* The GUI - a graphical user interface to interact with the simulator, test wing profiles, and braking actions for the AUV
 * The simulation results - data generated from the simulator that shows how the AUV performed under various scenarios
 * The report - a document detailing the project's progress and findings
 * The presentation - a summary of the project
